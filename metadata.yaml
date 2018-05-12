@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32449'
     url: http://www.gutenberg.org/2009/agents/32449
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27087#Wu-De-Ji
 gutenberg_issued: '2008-10-29'
 gutenberg_type: Text
 identifiers:
